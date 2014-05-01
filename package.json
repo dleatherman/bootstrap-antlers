@@ -1,5 +1,5 @@
 {
-  "name": "Bootstrap Antlers",
+  "name": "bootstrap-antlers",
   "version": "0.0.0",
   "description": "A theme for using grunt-kss to generate styleguides based on Twitter Bootstrap",
   "keywords": [
