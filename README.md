@@ -30,11 +30,11 @@ grunt.initConfig({
       template: 'bootstrap-antlers'
     },
     dist: {
-	    files: {
-	      '/path/to/destdir': ['/path/to/sourcedir']
-	    }
-  	}
-  }
+     files: {
+       '/path/to/destdir': ['/path/to/sourcedir']
+     }
+   }
+ }
 })
 ```
 
