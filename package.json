@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-antlers",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A theme for using kss-node to generate styleguides based on Twitter Bootstrap",
   "keywords": [
     "grunt",
@@ -13,7 +13,7 @@
   "bugs": "https://github.com/dleatherman/bootstrap-antlers/issues",
   "author": {
     "name": "Dan Leatherman",
-    "email": "hello@danleatherman.com",
+    "email": "dan@permalightnyc.com",
     "twitter": "danleatherman",
     "github": "dleatherman",
     "url": "http://danleatherman.com"
